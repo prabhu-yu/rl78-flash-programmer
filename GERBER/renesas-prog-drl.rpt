@@ -1,0 +1,26 @@
+Drill report for C:\Users\prabhu\Desktop\git\git-pcb\megha1\pcb\breakout\renesas-prog\renesas-prog\renesas-prog.kicad_pcb
+Created on 08/09/19 03:13:58
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'renesas-prog.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.50mm  0.020"  (22 holes)
+    T2  0.80mm  0.031"  (34 holes)
+    T3  0.92mm  0.036"  (12 holes)
+    T4  1.00mm  0.039"  (36 holes)
+    T5  2.33mm  0.092"  (6 holes)
+
+    Total plated holes count 110
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
