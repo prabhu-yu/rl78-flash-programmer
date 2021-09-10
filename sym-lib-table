@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RL78-flash-programmer-rescue)(type Legacy)(uri ${KIPRJMOD}/RL78-flash-programmer-rescue.lib)(options "")(descr ""))
+)
